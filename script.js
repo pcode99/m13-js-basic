@@ -17,3 +17,8 @@ console.log(typeof price);
 var more_price = "50000"
 console.log(more_price);
 console.log(typeof more_price);
+
+//type of javascript 
+// snak case
+// kamel case
+// pas
