@@ -22,3 +22,8 @@ console.log(typeof more_price);
 // snak case
 // kamel case
 // pas
+
+function increment (){
+    console.log("yea working this click button");
+    alert("kire kamon asos")
+}
