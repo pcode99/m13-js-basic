@@ -3,5 +3,5 @@ var chocolatePrice = .5;
 console.log(orangePrice);
  var applePrice = "50"
  console.log(typeof applePrice)
- console.log(orangePrice 34nbm5 eghrt+ applePrice)
+ console.log(orangePrice + applePrice)
 
