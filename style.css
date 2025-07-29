@@ -1,5 +1,26 @@
 *{
     
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center; */
+}
+body{
+    background-color: #000000; /* Black */
+    color: #ffffff; /* White */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#button-design {
+    background-color: #f70303; /* Green */
+    border: none;
+    font-family:  Tahoma;
+    font-weight: bold;
+    color: rgb(204, 204, 204);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
     text-align: center;
 }
